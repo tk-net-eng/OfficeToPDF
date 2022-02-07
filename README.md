@@ -21,6 +21,7 @@ This can be useful if, for example, a department has a policy of only distributi
 documents to people outside the department.
 
 There are some technical requirements that must be met before you can use it:</p>
+![image](https://user-images.githubusercontent.com/72929893/152830683-a36e4c84-6032-48d1-b052-819cb7a9f5c2.png)
 
 * .NET Framework 4
 * Office 2016, 2013, 2010 **or** Office 2007
